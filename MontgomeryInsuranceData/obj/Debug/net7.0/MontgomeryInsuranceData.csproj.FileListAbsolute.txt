@@ -1,0 +1,11 @@
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryInsuranceData\bin\Debug\net7.0\MontgomeryInsuranceData.deps.json
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryInsuranceData\bin\Debug\net7.0\MontgomeryInsuranceData.dll
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryInsuranceData\bin\Debug\net7.0\MontgomeryInsuranceData.pdb
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryInsuranceData\obj\Debug\net7.0\MontgomeryInsuranceData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryInsuranceData\obj\Debug\net7.0\MontgomeryInsuranceData.AssemblyInfoInputs.cache
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryInsuranceData\obj\Debug\net7.0\MontgomeryInsuranceData.AssemblyInfo.cs
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryInsuranceData\obj\Debug\net7.0\MontgomeryInsuranceData.csproj.CoreCompileInputs.cache
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryInsuranceData\obj\Debug\net7.0\MontgomeryInsuranceData.dll
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryInsuranceData\obj\Debug\net7.0\refint\MontgomeryInsuranceData.dll
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryInsuranceData\obj\Debug\net7.0\MontgomeryInsuranceData.pdb
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryInsuranceData\obj\Debug\net7.0\ref\MontgomeryInsuranceData.dll

@@ -1,0 +1,15 @@
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryRepository\bin\Debug\net7.0\MontgomeryQueueRepository.deps.json
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryRepository\bin\Debug\net7.0\MontgomeryQueueRepository.dll
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryRepository\bin\Debug\net7.0\MontgomeryQueueRepository.pdb
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryRepository\bin\Debug\net7.0\MontgomeryInsuranceData.dll
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryRepository\bin\Debug\net7.0\MontgomeryInsuranceData.pdb
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryRepository\obj\Debug\net7.0\MontgomeryQueueRepository.csproj.AssemblyReference.cache
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryRepository\obj\Debug\net7.0\MontgomeryQueueRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryRepository\obj\Debug\net7.0\MontgomeryQueueRepository.AssemblyInfoInputs.cache
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryRepository\obj\Debug\net7.0\MontgomeryQueueRepository.AssemblyInfo.cs
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryRepository\obj\Debug\net7.0\MontgomeryQueueRepository.csproj.CoreCompileInputs.cache
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryRepository\obj\Debug\net7.0\MontgomeryQueueRepository.csproj.CopyComplete
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryRepository\obj\Debug\net7.0\MontgomeryQueueRepository.dll
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryRepository\obj\Debug\net7.0\refint\MontgomeryQueueRepository.dll
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryRepository\obj\Debug\net7.0\MontgomeryQueueRepository.pdb
+C:\Users\ryana\OneDrive\Documents\ElevenFiftyProjects_177_10.6\dotnetProjects\MontgomeryInsuranceCo\MontgomeryRepository\obj\Debug\net7.0\ref\MontgomeryQueueRepository.dll

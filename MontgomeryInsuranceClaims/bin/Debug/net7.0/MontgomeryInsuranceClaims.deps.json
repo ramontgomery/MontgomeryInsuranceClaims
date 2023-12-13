@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MontgomeryInsuranceClaims/1.0.0": {
+        "dependencies": {
+          "MontgomeryInsuranceData": "1.0.0",
+          "MontgomeryQueueRepository": "1.0.0"
+        },
+        "runtime": {
+          "MontgomeryInsuranceClaims.dll": {}
+        }
+      },
+      "MontgomeryInsuranceData/1.0.0": {
+        "runtime": {
+          "MontgomeryInsuranceData.dll": {}
+        }
+      },
+      "MontgomeryQueueRepository/1.0.0": {
+        "dependencies": {
+          "MontgomeryInsuranceData": "1.0.0"
+        },
+        "runtime": {
+          "MontgomeryQueueRepository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MontgomeryInsuranceClaims/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MontgomeryInsuranceData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MontgomeryQueueRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
